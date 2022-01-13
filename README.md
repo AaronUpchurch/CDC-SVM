@@ -15,5 +15,5 @@ Features: __
   age: Age in years __
   gender: Gender (m/f) __
   
-  Model accuracy on trianing data: 86.08% __
+  Model accuracy on trianing data: 86.08%  
   Model accuraccy on test data: 86.63% __
