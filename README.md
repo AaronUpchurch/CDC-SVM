@@ -1,19 +1,19 @@
 # CDC-SVM
-Support vector machine created for classifying the health status of respondents to a CDC telephone interview. \n
+Support vector machine created for classifying the health status of respondents to a CDC telephone interview. __
 
-Respondents were grouped based on their reported general health status \n
-  ["Excellent", "Very good", "good"] = 1 \n
-  ["Fair","poor"] = 0 \n
+Respondents were grouped based on their reported general health status __
+  ["Excellent", "Very good", "good"] = 1 __
+  ["Fair","poor"] = 0 __
 
-Features: \n
-  exerany: If respondents exercised in the last month \n
-  hlthplan: If respondents had a health plan \n
-  smoke100: If respondents smoked 100 or more cigarrettes in their life \n
-  height: height in inches \n
-  weight: wieght in pounds \n
-  wtdesire: Desired weight in pounds \n
-  age: Age in years \n
-  gender: Gender (m/f) \n
+Features: __
+  exerany: If respondents exercised in the last month __
+  hlthplan: If respondents had a health plan __
+  smoke100: If respondents smoked 100 or more cigarrettes in their life __
+  height: height in inches __
+  weight: wieght in pounds __
+  wtdesire: Desired weight in pounds __
+  age: Age in years __
+  gender: Gender (m/f) __
   
-  Model accuracy on trianing data: 86.08% \n
-  Model accuraccy on test data: 86.63% \n
+  Model accuracy on trianing data: 86.08% __
+  Model accuraccy on test data: 86.63% __
